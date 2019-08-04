@@ -39,7 +39,7 @@
 		"node-sass": "4.12.0",
 		"postcss-loader": "3.0.0",
 		"sass-loader": "7.1.0",
-		"stylelint": "9.10.1",
+		"stylelint": "10.1.0",
 		"stylelint-config-wordpress": "14.0.0",
 		"webpack": "4.39.1",
 		"webpack-cli": "3.3.6"
