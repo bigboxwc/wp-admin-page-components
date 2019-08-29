@@ -32,7 +32,7 @@
 		"@wordpress/babel-plugin-makepot": "3.2.0",
 		"@wordpress/babel-preset-default": "4.4.0",
 		"@wordpress/postcss-themes": "2.2.0",
-		"@wordpress/scripts": "3.4.0",
+		"@wordpress/scripts": "4.0.0",
 		"cross-env": "5.2.0",
 		"css-loader": "3.2.0",
 		"mini-css-extract-plugin": "0.8.0",
