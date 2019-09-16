@@ -30,7 +30,7 @@
 	"devDependencies": {
 		"@babel/plugin-transform-async-to-generator": "7.5.0",
 		"@wordpress/babel-plugin-makepot": "3.2.0",
-		"@wordpress/babel-preset-default": "4.5.0",
+		"@wordpress/babel-preset-default": "4.6.0",
 		"@wordpress/postcss-themes": "2.2.0",
 		"@wordpress/scripts": "4.1.0",
 		"cross-env": "5.2.1",
