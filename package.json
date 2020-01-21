@@ -28,7 +28,7 @@
 	},
 	"homepage": "https://bigboxwc.com",
 	"devDependencies": {
-		"@babel/plugin-transform-async-to-generator": "7.7.4",
+		"@babel/plugin-transform-async-to-generator": "7.8.3",
 		"@wordpress/babel-plugin-makepot": "3.2.1",
 		"@wordpress/babel-preset-default": "4.6.2",
 		"@wordpress/postcss-themes": "2.2.0",
