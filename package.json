@@ -40,7 +40,7 @@
 		"postcss-loader": "3.0.0",
 		"sass-loader": "8.0.2",
 		"stylelint": "13.0.0",
-		"stylelint-config-wordpress": "16.0.0",
+		"stylelint-config-wordpress": "17.0.0",
 		"webpack": "4.41.5",
 		"webpack-cli": "3.3.10"
 	}
